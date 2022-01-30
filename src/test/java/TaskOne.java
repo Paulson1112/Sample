@@ -17,7 +17,7 @@ public class TaskOne {
 
 public static void main(String[] args) throws IOException {
 	System.out.println("sample");
-	System.out.println("test");
+	System.out.println("teddddddd");
 		}
 		
  
